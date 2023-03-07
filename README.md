@@ -19,8 +19,6 @@ The code includes an example where the movie description for "The Incredible Hul
 The "movies.txt" file should be a plain text file with one movie title and its description per line, separated by a colon and a space (": "). For example:
 
 The Shawshank Redemption: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
-The Godfather: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
-The Dark Knight: When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.
 
 # Functionality
 This code is intended to be an example of how SpaCy can be used to build a movie recommender system. The recommender function is an example of how natural language processing techniques can be used to compare strings and find the best match.
