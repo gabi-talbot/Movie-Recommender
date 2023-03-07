@@ -11,7 +11,7 @@ Requires the pre-trained English language model "en_core_web_md". You can downlo
 python -m spacy download en_core_web_md
 
 ## Usage
-To use this code, simply run the script. It will read the "movies.txt" file and store the results in a dictionary. Then, it will call the recommender function, which takes a string parameter as input, compares it to the descriptions of the movies in the dictionary, and returns the movie title that has the highest similarity score.
+To use this code, simply run the watch_next.py. It will read the "movies.txt" file and store the results in a dictionary. Then, it will call the recommender function, which takes a string parameter as input, compares it to the descriptions of the movies in the dictionary, and returns the movie title that has the highest similarity score.
 
 The code includes an example where the movie description for "The Incredible Hulk" is used as the input parameter for the recommender function. The recommended movie title and its description are then printed to the console.
 
