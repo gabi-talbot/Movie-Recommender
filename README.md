@@ -1,12 +1,12 @@
 ## Movie Recommender System using Spacy
-This code uses the Spacy library to build an advanced language model for movie recommendation. The model reads a file called "movies.txt" and stores the movie titles along with their descriptions in a Python dictionary.
+Uses the SpaCy library to build an advanced language model for movie recommendation. The model reads a file called "movies.txt" and stores the movie titles along with their descriptions in a Python dictionary.
 
 # Requirements
-This code requires the Spacy library to be installed. To install Spacy, run the following command:
+Requires the SpaCy library to be installed. To install SpaCy, run the following command in your command line interface:
 
 pip install spacy
 
-This code also requires the pre-trained English language model "en_core_web_md". You can download it using the following command:
+Requires the pre-trained English language model "en_core_web_md". You can download it using the following command:
 
 python -m spacy download en_core_web_md
 
