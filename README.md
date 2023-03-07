@@ -1,5 +1,5 @@
 # Movie Recommender System using Spacy
-Uses the SpaCy library to build an advanced language model for movie recommendation. The model reads a file called "movies.txt" and stores the movie titles along with their descriptions in a Python dictionary.
+Uses the SpaCy library to build an advanced language model for movie recommendation. The model reads "movies.txt" and an input, then uses natural language processing techniques to compare strings and find the best match.
 
 ## Requirements
 Requires the SpaCy library to be installed. To install SpaCy, run the following command in your command line interface:
